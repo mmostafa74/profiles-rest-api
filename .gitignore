@@ -121,6 +121,10 @@ dmypy.json
 
 ### Python Patch ###
 .venv/
+profiles-env/
+
+### vscode files
+.vscode/
 
 ### Vagrant ###
 # General
